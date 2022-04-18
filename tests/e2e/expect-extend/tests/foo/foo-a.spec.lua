@@ -1,3 +1,4 @@
+-- #selene: allow(incorrect_standard_library_use)
 return function()
 	describe("lower", function()
 		beforeAll(function()
